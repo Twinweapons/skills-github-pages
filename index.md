@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
 
-The github experience
+description: The github experience
 ---
 
